@@ -28,5 +28,5 @@ GARCH-Synthesizer is a Python toolkit for generating synthetic financial time se
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/GARCH-Synthesizer.git
+   git clone https://github.com/ekoshv/GARCH-Synthesizer.git
    cd GARCH-Synthesizer
