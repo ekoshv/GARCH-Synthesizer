@@ -11,7 +11,8 @@ GARCH-Synthesizer is a Python toolkit for generating synthetic financial time se
 - **Regime-Adaptive Modeling:** Optionally split data into regimes and chain simulations for each regime.
 - **Data Quality Testing:** Includes statistical tests (e.g., Kolmogorov-Smirnov test, mean/std comparison, autocorrelation analysis) to assess the quality of the synthetic data.
 - **Visualization:** Plot synthetic paths and summary histograms for quick evaluation of the simulation performance.
-
+![GARCH Model Example](Synth01.png)
+![Stats and Test](synth02.png)
 ## Requirements
 
 - Python 3.7+
